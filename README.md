@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Haya🎀🩰☁️
-print " helle word"
+- 👋 Hi, I’m Haya
 
 <!---
 HayaHWR/HayaHWR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
